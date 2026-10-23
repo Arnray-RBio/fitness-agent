@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "extreme-fitness-home",
+    "brand_name": "Extreme Fitness Singapore",
+    "category": "gym",
+    "page_type": "overview",
+    "url": "https://extremefitness.sg/",
+    "enabled": true
+  },
+  {
+    "source_id": "0307afabd12a4cdf8586ffc478ea7370",
+    "brand_name": "Ayu Yoga",
+    "url": "https://ayuyogasg.com/",
+    "category": "yoga/stretching",
+    "page_type": "overview",
+    "enabled": true
+  },
+  {
+    "source_id": "cb6a5d397d6548e3a15dcc32c886cceb",
+    "brand_name": "Sochill Bath Club",
+    "url": "https://sochillbathclub.com/",
+    "category": "recovery",
+    "page_type": "overview",
+    "enabled": true
+  }
+]

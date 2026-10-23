@@ -1,0 +1,51 @@
+{
+  "started_at_utc": "2026-10-11T23:58:31.016025+00:00",
+  "model": "qwen3.5:4b",
+  "pages": [
+    {
+      "source": {
+        "source_id": "extreme-fitness-home",
+        "brand_name": "Extreme Fitness Singapore",
+        "category": "gym",
+        "page_type": "overview",
+        "url": "https://extremefitness.sg/",
+        "enabled": true
+      },
+      "status": "captured_needs_review",
+      "capture_file": "20261012T000134253334Z.json",
+      "input_truncated": false,
+      "elapsed_seconds": 183.26
+    },
+    {
+      "source": {
+        "source_id": "0307afabd12a4cdf8586ffc478ea7370",
+        "brand_name": "Ayu Yoga",
+        "url": "https://ayuyogasg.com/",
+        "category": "yoga/stretching",
+        "page_type": "overview",
+        "enabled": true
+      },
+      "status": "captured_needs_review",
+      "capture_file": "20261012T000221298528Z.json",
+      "input_truncated": false,
+      "elapsed_seconds": 45.03
+    },
+    {
+      "source": {
+        "source_id": "cb6a5d397d6548e3a15dcc32c886cceb",
+        "brand_name": "Sochill Bath Club",
+        "url": "https://sochillbathclub.com/",
+        "category": "recovery",
+        "page_type": "overview",
+        "enabled": true
+      },
+      "status": "captured_needs_review",
+      "capture_file": "20261012T000350738020Z.json",
+      "input_truncated": false,
+      "elapsed_seconds": 87.44
+    }
+  ],
+  "import_status": "completed",
+  "import_output": "New captures imported: 3\nAlready imported: 8\nFiles needing attention: 0\nTotal stored captures: 11\nDatabase: C:\\Users\\arnab\\fitness-agent\\data\\fitness_agent.db\n",
+  "finished_at_utc": "2026-10-12T00:03:51.113714+00:00"
+}

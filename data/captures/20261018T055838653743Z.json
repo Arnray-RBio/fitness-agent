@@ -1,0 +1,121 @@
+{
+  "source_url": "https://extremefitness.sg/",
+  "requested_url": "https://extremefitness.sg/",
+  "registered_source": {
+    "source_id": "extreme-fitness-home",
+    "brand_name": "Extreme Fitness Singapore",
+    "category": "strength",
+    "page_type": "overview",
+    "url": "https://extremefitness.sg/",
+    "enabled": true
+  },
+  "model": "qwen3.5:4b",
+  "checked_at_utc": "2026-10-18T05:58:38.652878+00:00",
+  "input_truncated": false,
+  "review_status": "needs_manual_review",
+  "venue": {
+    "name": "Extreme Fitness Singapore",
+    "services": [
+      "Personal Training",
+      "Fitness Training"
+    ],
+    "programmes": [
+      "EXTREME Fat Loss programme™",
+      "MUSCLE building",
+      "TONING & SCULPTING PROGRAMME FOR WOMEN",
+      "POST-PARTUM WEIGHT LOSS PROGRAMME",
+      "HYBRID STRENGTH PROGRAMME",
+      "CUSTOM SCHEDULE",
+      "1-ON-1COACHING",
+      "DNA-BASED TRAINING",
+      "FULL TRACKING",
+      "EXTREMEFAT LOSS PROGRAMME™"
+    ],
+    "branches": [
+      {
+        "name": "Jurong East (The Chevrons)",
+        "address": null,
+        "name_evidence": "📍 Jurong East (The Chevrons)",
+        "address_evidence": null
+      },
+      {
+        "name": "West Coast (NEWest)",
+        "address": "1 West Coast Drive #01-24/25 S (128020)",
+        "name_evidence": "📍 West Coast (NEWest)",
+        "address_evidence": "NEWest\n1 West Coast Drive #01-24/25\nS (128020)"
+      },
+      {
+        "name": "Yishun (Orchid Country Club)",
+        "address": "1 Orchid Club Road #01-33 S (769162)",
+        "name_evidence": "📍 Yishun (Orchid Country Club)",
+        "address_evidence": "Orchid Country Club\n1 Orchid Club Road #01-33\nS (769162)"
+      },
+      {
+        "name": "MacPherson",
+        "address": null,
+        "name_evidence": "📍 MacPherson",
+        "address_evidence": null
+      },
+      {
+        "name": "Bugis (Chenn Leonn Building)",
+        "address": null,
+        "name_evidence": "📍 Bugis (Chenn Leonn Building)",
+        "address_evidence": null
+      },
+      {
+        "name": "Blk 161, Bukit Merah Central",
+        "address": null,
+        "name_evidence": "📍Blk 161, Bukit Merah Central",
+        "address_evidence": null
+      }
+    ],
+    "packages": [
+      {
+        "name": "EXTREME Fat Loss programme™",
+        "price": 19.9,
+        "currency": null,
+        "billing_or_validity": null,
+        "sessions": null,
+        "evidence": "Get Our EXTREME Fat Loss Programme™ for $19.90 ($495)"
+      }
+    ],
+    "deals": [
+      {
+        "description": "EXTREME Fat Loss programme™",
+        "expiry": null,
+        "evidence": "Get Our EXTREME Fat Loss Programme™ for $19.90 ($495) - Limited Time!"
+      }
+    ]
+  },
+  "rejected_items": {
+    "branches": [],
+    "branch_addresses": [
+      {
+        "name": "Jurong East (The Chevrons)",
+        "address": "48 Boon Lay Wy, #01-06, Singapore S (609961)",
+        "name_evidence": "📍 Jurong East (The Chevrons)",
+        "address_evidence": "📍 Jurong East (The Chevrons)\n📍 West Coast (NEWest)\n📍 Yishun (Orchid Country Club)\n📍 MacPherson\n📍 Bugis (Chenn Leonn Building)\n📍Blk 161, Bukit Merah Central"
+      },
+      {
+        "name": "MacPherson",
+        "address": "445 & 447 Macpherson Road S (368156 / 368157)",
+        "name_evidence": "📍 MacPherson",
+        "address_evidence": "MacPherson\n445 & 447 Macpherson Road\nS (368156 / 368157)"
+      },
+      {
+        "name": "Bugis (Chenn Leonn Building)",
+        "address": "1 Aliwal Street Level 3 Unit 1B S (199894)",
+        "name_evidence": "📍 Bugis (Chenn Leonn Building)",
+        "address_evidence": "Bugis (Chenn Leonn Building)\n1 Aliwal Street\nLevel 3 Unit 1B\nS (199894)"
+      },
+      {
+        "name": "Blk 161, Bukit Merah Central",
+        "address": "Blk 161, Bukit Merah Central #01-3733 S (150161)",
+        "name_evidence": "📍Blk 161, Bukit Merah Central",
+        "address_evidence": "Blk 161, Bukit Merah Central\nBlk 161, Bukit Merah Central, #01-3733 S (150161)"
+      }
+    ],
+    "packages": [],
+    "deals": []
+  }
+}

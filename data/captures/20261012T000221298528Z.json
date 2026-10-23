@@ -1,0 +1,44 @@
+{
+  "source_url": "https://ayuyogasg.com/",
+  "requested_url": "https://ayuyogasg.com/",
+  "registered_source": {
+    "source_id": "0307afabd12a4cdf8586ffc478ea7370",
+    "brand_name": "Ayu Yoga",
+    "url": "https://ayuyogasg.com/",
+    "category": "yoga/stretching",
+    "page_type": "overview",
+    "enabled": true
+  },
+  "model": "qwen3.5:4b",
+  "checked_at_utc": "2026-10-12T00:02:21.297807+00:00",
+  "input_truncated": false,
+  "review_status": "needs_manual_review",
+  "venue": {
+    "name": "Āyu Yoga",
+    "services": [],
+    "programmes": [
+      "Hatha Yoga",
+      "Yin Yoga",
+      "Vinyasa",
+      "Chair Yoga",
+      "Arm Balance",
+      "Prenatal Yoga"
+    ],
+    "branches": [
+      {
+        "name": "Āyu Yoga",
+        "address": "2 Pandan Valley, #B1-209 Singapore 597626",
+        "name_evidence": "Join us at\n2 Pandan Valley, #B1-209 Singapore 597626",
+        "address_evidence": "Join us at\n2 Pandan Valley, #B1-209 Singapore 597626"
+      }
+    ],
+    "packages": [],
+    "deals": []
+  },
+  "rejected_items": {
+    "branches": [],
+    "branch_addresses": [],
+    "packages": [],
+    "deals": []
+  }
+}

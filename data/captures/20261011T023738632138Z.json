@@ -1,0 +1,83 @@
+{
+  "source_url": "https://extremefitness.sg/",
+  "checked_at_utc": "2026-10-11T02:37:38.631422+00:00",
+  "input_truncated": false,
+  "review_status": "needs_manual_review",
+  "venue": {
+    "name": "Extreme Fitness Singapore",
+    "services": [
+      "Personal Training",
+      "Fitness Training",
+      "24/7 fitness access"
+    ],
+    "programmes": [
+      "EXTREME Fat Loss programme™",
+      "MUSCLE building",
+      "TONING & SCULPTING PROGRAMME FOR WOMEN",
+      "POST-PARTUM WEIGHT LOSS PROGRAMME",
+      "HYBRID STRENGTH PROGRAMME",
+      "CUSTOM SCHEDULE",
+      "1-ON-1COACHING",
+      "DNA-BASED TRAINING",
+      "FULL TRACKING",
+      "EXTREMEFAT LOSS PROGRAMME™",
+      "Muscle-Building programme",
+      "POST-PARTUMWEIGHT LOSS PROGRAMME",
+      "BODYTONING & SCULPTING PROGRAMME"
+    ],
+    "branches": [],
+    "packages": [
+      {
+        "name": "EXTREME Fat Loss programme™",
+        "price": 19.9,
+        "currency": null,
+        "billing_or_validity": null,
+        "sessions": null,
+        "evidence": "Get Our EXTREME Fat Loss Programme™ for $19.90 ($495)"
+      }
+    ],
+    "deals": [
+      {
+        "description": "EXTREME Fat Loss programme™",
+        "expiry": null,
+        "evidence": "Get Our EXTREME Fat Loss Programme™ for $19.90 ($495) - Limited Time!"
+      }
+    ]
+  },
+  "rejected_items": {
+    "branches": [
+      {
+        "name": "Jurong East (The Chevrons)",
+        "address": "48 Boon Lay Wy, #01-06, Singapore S (609961)",
+        "evidence": "📍 Jurong East (The Chevrons) 48 Boon Lay Wy, #01-06, Singapore S (609961)"
+      },
+      {
+        "name": "West Coast (NEWest)",
+        "address": "1 West Coast Drive #01-24/25 S (128020)",
+        "evidence": "📍 West Coast (NEWest) 1 West Coast Drive #01-24/25 S (128020)"
+      },
+      {
+        "name": "Yishun (Orchid Country Club)",
+        "address": "1 Orchid Club Road #01-33 S (769162)",
+        "evidence": "📍 Yishun (Orchid Country Club) 1 Orchid Club Road #01-33 S (769162)"
+      },
+      {
+        "name": "MacPherson",
+        "address": "445 & 447 Macpherson Road S (368156 / 368157)",
+        "evidence": "📍 MacPherson 445 & 447 Macpherson Road S (368156 / 368157)"
+      },
+      {
+        "name": "Bugis (Chenn Leonn Building)",
+        "address": "1 Aliwal Street Level 3 Unit 1B S (199894)",
+        "evidence": "📍 Bugis (Chenn Leonn Building) 1 Aliwal Street Level 3 Unit 1B S (199894)"
+      },
+      {
+        "name": "Blk 161, Bukit Merah Central",
+        "address": "Blk 161, Bukit Merah Central, #01-3733 S (150161)",
+        "evidence": "📍Blk 161, Bukit Merah Central Blk 161, Bukit Merah Central, #01-3733 S (150161)"
+      }
+    ],
+    "packages": [],
+    "deals": []
+  }
+}

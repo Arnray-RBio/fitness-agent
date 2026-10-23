@@ -1,0 +1,56 @@
+{
+  "source_url": "https://extremefitness.sg/",
+  "checked_at_utc": "2026-10-11T02:25:42.544503+00:00",
+  "input_truncated": false,
+  "review_status": "needs_manual_review",
+  "venue": {
+    "name": "Extreme Fitness Singapore",
+    "services": [
+      "Personal Training",
+      "Fat Loss Programme",
+      "Muscle Building Programme",
+      "Post-Partum Weight Loss Programme",
+      "Toning & Sculpting Programme"
+    ],
+    "programmes": [
+      "EXTREME Fat Loss programme™",
+      "HYBRID STRENGTH PROGRAMME",
+      "POST-PARTUM WEIGHT LOSS PROGRAMME",
+      "BODYTONING & SCULPTING PROGRAMME"
+    ],
+    "branches": [
+      {
+        "name": "Jurong East (The Chevrons)",
+        "address": "48 Boon Lay Wy, #01-06, Singapore S (609961)",
+        "evidence": "📍 Jurong East (The Chevrons)"
+      },
+      {
+        "name": "West Coast",
+        "address": "1 West Coast Drive #01-24/25 S (128020)",
+        "evidence": "📍 West Coast (NEWest)"
+      },
+      {
+        "name": "Yishun",
+        "address": "1 Orchid Club Road #01-33 S (769162)",
+        "evidence": "📍 Yishun (Orchid Country Club)"
+      },
+      {
+        "name": "MacPherson",
+        "address": "445 & 447 Macpherson Road S (368156 / 368157)",
+        "evidence": "📍 MacPherson"
+      },
+      {
+        "name": "Bugis",
+        "address": "1 Aliwal Street Level 3 Unit 1B Chenn Leonn Building S (199894)",
+        "evidence": "📍 Bugis (Chenn Leonn Building)"
+      },
+      {
+        "name": "Blk 161, Bukit Merah Central",
+        "address": "Blk 161, Bukit Merah Central, #01-3733 S (150161)",
+        "evidence": "📍Blk 161, Bukit Merah Central"
+      }
+    ],
+    "packages": [],
+    "deals": []
+  }
+}

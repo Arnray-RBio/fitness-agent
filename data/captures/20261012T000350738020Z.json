@@ -1,0 +1,82 @@
+{
+  "source_url": "https://sochillbathclub.com/",
+  "requested_url": "https://sochillbathclub.com/",
+  "registered_source": {
+    "source_id": "cb6a5d397d6548e3a15dcc32c886cceb",
+    "brand_name": "Sochill Bath Club",
+    "url": "https://sochillbathclub.com/",
+    "category": "recovery",
+    "page_type": "overview",
+    "enabled": true
+  },
+  "model": "qwen3.5:4b",
+  "checked_at_utc": "2026-10-12T00:03:50.737438+00:00",
+  "input_truncated": false,
+  "review_status": "needs_manual_review",
+  "venue": {
+    "name": "Sochill Bath Club",
+    "services": [
+      "Sauna",
+      "Cold Plunge",
+      "Dunk Shower",
+      "Magnesium Hydro Bath",
+      "Recovery Tech"
+    ],
+    "programmes": [
+      "Contrast therapy",
+      "Finnish Sauna",
+      "Cold Plunge",
+      "Hydrotherapy Bath",
+      "Dunk Shower",
+      "Recovery Space",
+      "SoSmooth"
+    ],
+    "branches": [
+      {
+        "name": "Raffles Holland V Mall",
+        "address": "118 Holland Ave, Singapore 278997",
+        "name_evidence": "Raffles Holland V Mall #02-01, Holland Village.",
+        "address_evidence": "Raffles Holland V Mall, #02-01\n118 Holland Ave, Singapore 278997"
+      }
+    ],
+    "packages": [
+      {
+        "name": "Unlimited Off-Peak",
+        "price": 65.0,
+        "currency": "$",
+        "billing_or_validity": "billed $260 every 4 weeks",
+        "sessions": null,
+        "evidence": "Unlimited Off-Peak\n$65/week\nbilled $260 every 4 weeks"
+      },
+      {
+        "name": "Unlimited Weekdays",
+        "price": 76.0,
+        "currency": "$",
+        "billing_or_validity": "billed $304 every 4 weeks",
+        "sessions": null,
+        "evidence": "Unlimited Weekdays\n$76/week\nbilled $304 every 4 weeks"
+      },
+      {
+        "name": "Unlimited Anytime",
+        "price": 89.0,
+        "currency": "$",
+        "billing_or_validity": "billed $356 every 4 weeks",
+        "sessions": null,
+        "evidence": "Unlimited Anytime\nMost Popular\n$89/week\nbilled $356 every 4 weeks"
+      }
+    ],
+    "deals": [
+      {
+        "description": "20% off the cafe, protein smoothies and wraps — applied automatically.",
+        "expiry": null,
+        "evidence": "Member-only savings\n20% off the cafe, protein smoothies and wraps — applied automatically."
+      }
+    ]
+  },
+  "rejected_items": {
+    "branches": [],
+    "branch_addresses": [],
+    "packages": [],
+    "deals": []
+  }
+}

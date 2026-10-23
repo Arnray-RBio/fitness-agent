@@ -1,0 +1,34 @@
+{
+  "source_url": "https://ayuyogasg.com/",
+  "checked_at_utc": "2026-10-11T03:41:56.651677+00:00",
+  "input_truncated": false,
+  "review_status": "needs_manual_review",
+  "venue": {
+    "name": "Āyu Yoga",
+    "services": [],
+    "programmes": [
+      "Hatha Yoga",
+      "Yin Yoga",
+      "Vinyasa",
+      "Chair Yoga",
+      "Arm Balance",
+      "Prenatal Yoga"
+    ],
+    "branches": [
+      {
+        "name": "Āyu Yoga",
+        "address": "2 Pandan Valley, #B1-209 Singapore 597626",
+        "name_evidence": "Join us at\n2 Pandan Valley, #B1-209 Singapore 597626",
+        "address_evidence": "Join us at\n2 Pandan Valley, #B1-209 Singapore 597626"
+      }
+    ],
+    "packages": [],
+    "deals": []
+  },
+  "rejected_items": {
+    "branches": [],
+    "branch_addresses": [],
+    "packages": [],
+    "deals": []
+  }
+}

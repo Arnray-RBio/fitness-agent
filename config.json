@@ -1,0 +1,11 @@
+{
+  "ollama_host": "http://localhost:11434",
+  "model": "qwen3.5:4b",
+  "think": false,
+  "num_ctx": 8192,
+  "num_predict": 2048,
+  "input_character_limit": 12000,
+  "fetch_timeout_seconds": 30,
+  "model_timeout_seconds": 300,
+  "pause_seconds": 2
+}

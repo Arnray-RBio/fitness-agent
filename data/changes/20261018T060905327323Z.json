@@ -1,0 +1,185 @@
+{
+  "generated_at_utc": "2026-10-18T06:09:05.312501+00:00",
+  "scope": "Latest two successful captures per webpage; original extractions, not manual reviews.",
+  "pages": [
+    {
+      "group_key": "source:cb6a5d397d6548e3a15dcc32c886cceb",
+      "brand": "Sochill Bath Club",
+      "source_url": "https://sochillbathclub.com/",
+      "page_type": "overview",
+      "snapshots": 3,
+      "status": "extraction_variation_on_unchanged_text",
+      "previous_capture_id": 11,
+      "latest_capture_id": 14,
+      "previous_checked_at_utc": "2026-10-12T00:03:50.737438+00:00",
+      "latest_checked_at_utc": "2026-10-18T06:01:10.641474+00:00",
+      "source_text_changed": false,
+      "extracted_fields_changed": true,
+      "field_changes": {
+        "programmes": {
+          "newly_extracted": [
+            "Go Chill",
+            "Recovery for Everyday Heroes"
+          ],
+          "no_longer_extracted": [
+            "Cold Plunge",
+            "Dunk Shower",
+            "Recovery Space"
+          ]
+        },
+        "packages": {
+          "newly_extracted": [
+            {
+              "name": "Unlimited Off-Peak",
+              "price": 65.0,
+              "currency": null,
+              "billing_or_validity": "billed $260 every 4 weeks",
+              "sessions": null
+            },
+            {
+              "name": "Unlimited Weekdays",
+              "price": 76.0,
+              "currency": null,
+              "billing_or_validity": "billed $304 every 4 weeks",
+              "sessions": null
+            },
+            {
+              "name": "Unlimited Anytime",
+              "price": 89.0,
+              "currency": null,
+              "billing_or_validity": "billed $356 every 4 weeks",
+              "sessions": null
+            }
+          ],
+          "no_longer_extracted": [
+            {
+              "name": "Unlimited Off-Peak",
+              "price": 65.0,
+              "currency": "$",
+              "billing_or_validity": "billed $260 every 4 weeks",
+              "sessions": null
+            },
+            {
+              "name": "Unlimited Weekdays",
+              "price": 76.0,
+              "currency": "$",
+              "billing_or_validity": "billed $304 every 4 weeks",
+              "sessions": null
+            },
+            {
+              "name": "Unlimited Anytime",
+              "price": 89.0,
+              "currency": "$",
+              "billing_or_validity": "billed $356 every 4 weeks",
+              "sessions": null
+            }
+          ]
+        },
+        "deals": {
+          "newly_extracted": [
+            {
+              "description": "Member-only savings: 20% off the cafe, protein smoothies and wraps — applied automatically.",
+              "expiry": null
+            }
+          ],
+          "no_longer_extracted": [
+            {
+              "description": "20% off the cafe, protein smoothies and wraps — applied automatically.",
+              "expiry": null
+            }
+          ]
+        }
+      },
+      "warnings": [],
+      "previous_text_sha256": "666d3fc6a1c98ed25b27ab3ccb3e8bd485847e508fdcacecef9d90fd9f37be6e",
+      "latest_text_sha256": "666d3fc6a1c98ed25b27ab3ccb3e8bd485847e508fdcacecef9d90fd9f37be6e",
+      "source_diff_excerpt": "",
+      "source_diff_truncated": false
+    },
+    {
+      "group_key": "source:0307afabd12a4cdf8586ffc478ea7370",
+      "brand": "Āyu Yoga",
+      "source_url": "https://ayuyogasg.com/",
+      "page_type": "overview",
+      "snapshots": 3,
+      "status": "source_changed_needs_review",
+      "previous_capture_id": 10,
+      "latest_capture_id": 13,
+      "previous_checked_at_utc": "2026-10-12T00:02:21.297807+00:00",
+      "latest_checked_at_utc": "2026-10-18T05:59:42.938679+00:00",
+      "source_text_changed": true,
+      "extracted_fields_changed": true,
+      "field_changes": {
+        "programmes": {
+          "newly_extracted": [
+            "therapy classes",
+            "yoga retreat"
+          ],
+          "no_longer_extracted": [
+            "Arm Balance",
+            "Chair Yoga",
+            "Hatha Yoga",
+            "Prenatal Yoga",
+            "Vinyasa",
+            "Yin Yoga"
+          ]
+        },
+        "packages": {
+          "newly_extracted": [
+            {
+              "name": "30 classes package",
+              "price": null,
+              "currency": null,
+              "billing_or_validity": null,
+              "sessions": 30
+            }
+          ],
+          "no_longer_extracted": []
+        },
+        "deals": {
+          "newly_extracted": [
+            {
+              "description": "($20)",
+              "expiry": null
+            }
+          ],
+          "no_longer_extracted": []
+        }
+      },
+      "warnings": [],
+      "previous_text_sha256": "c49b80e3f5f416efc77c9efb71edf5884ea2489a8b7c0e28fb45d7b94992bdbe",
+      "latest_text_sha256": "a678131cd850eba110300c5aac88efd1987221c831d71f900f6935761e46cdcd",
+      "source_diff_excerpt": "--- Capture 10\n+++ Capture 13\n@@ -42,4 +42,31 @@\n WhatsApp\n Instagram\n+EXCELLENT\n+Based on\n+69 reviews\n+Posted on Google\n+TANIA HINCAPIE\n+Trustindex verifies that the original source of the review is Google.\n+Had an amazing morning sun salutation class here. The space was clean and well kept, the instructor was great at balancing his attention on all the participants, the studio is located downstairs from the 7-eleven. A good location, great ambiance, I will be returning!\n+Posted on Google\n+Ashleigh Kueh\n+Trustindex verifies that the original source of the review is Google.\n+Had my first trial here on my birthday. ($20) Very nice and approachable yoga masters here. Guided us really professionally at our own pace. Signed up 30 classes package with them! Studio location is nicely nestled in the neighbourhoods of condominium. Highly recommend :)\n+Posted on Google\n+Trisha Tan\n+Trustindex verifies that the original source of the review is Google.\n+I’ve been regularly to their therapy classes and it’s been so helpful! It’s always catered to our individual needs, and I always leave feeling relaxed and refreshed. Definitely recommend!\n+Posted on Google\n+Alice Lew\n+Trustindex verifies that the original source of the review is Google.\n+Ayu is a place where you can enjoy every one of their classes. The instructors are great, gives clear instructions and helpful. I strongly recommend Ayu to start your yoga journey.\n+Posted on Google\n+Jenn Ke Ying\n+Trustindex verifies that the original source of the review is Google.\n+Sunny is one of the best yoga instructors you'll find in town!\n+Posted on Google\n+V T\n+Trustindex verifies that the original source of the review is Google.\n+I just got back from Ayu Yoga's first-ever yoga retreat in Rishikesh, and I couldn't be happier with the experience! They did an absolutely fantastic job organizing everything. From the moment we arrived, the entire Ayu Yoga team was incredibly attentive to our needs, making sure everyone was comfortable and well taken care of.​ It wasn't just about the yoga, we got to spend time exploring Rishikesh and seeing some beautiful sights. It was a perfect blend of deep practice and cultural adventure!\n Latest Blogs​\n View More",
+      "source_diff_truncated": false
+    },
+    {
+      "group_key": "source:extreme-fitness-home",
+      "brand": "Extreme Fitness Singapore",
+      "source_url": "https://extremefitness.sg/",
+      "page_type": "overview",
+      "snapshots": 8,
+      "status": "no_detected_change",
+      "previous_capture_id": 9,
+      "latest_capture_id": 12,
+      "previous_checked_at_utc": "2026-10-12T00:01:34.252638+00:00",
+      "latest_checked_at_utc": "2026-10-18T05:58:38.652878+00:00",
+      "source_text_changed": false,
+      "extracted_fields_changed": false,
+      "field_changes": {},
+      "warnings": [
+        "At least one capture has rejected items; evidence filtering may explain missing extracted facts."
+      ],
+      "previous_text_sha256": "08486fc8ea19b95bacd0657cc5c84df04022ff36f5a074158f02992bc91c4963",
+      "latest_text_sha256": "08486fc8ea19b95bacd0657cc5c84df04022ff36f5a074158f02992bc91c4963",
+      "source_diff_excerpt": "",
+      "source_diff_truncated": false
+    }
+  ],
+  "latest_batch": {
+    "report_file": "20261018T055551623424Z.json",
+    "started_at_utc": "2026-10-18T05:55:51.624452+00:00",
+    "finished_at_utc": "2026-10-18T06:01:11.097870+00:00",
+    "import_status": "completed",
+    "failed_pages": []
+  }
+}
